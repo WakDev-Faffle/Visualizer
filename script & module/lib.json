@@ -1,0 +1,8 @@
+{
+    "modeList" : [
+        ["LET","add"],
+        ["LET","remove"],
+        ["LET","change"],
+        ["SET","add"]
+    ]
+}
